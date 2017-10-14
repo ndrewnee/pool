@@ -1,5 +1,7 @@
 # pool
 
+[![Build Status](https://travis-ci.org/ndrewnee/pool.svg?branch=master)](https://travis-ci.org/ndrewnee/pool)
+
 ## Description
 
 Simple pool of workers
