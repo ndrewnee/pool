@@ -1,6 +1,10 @@
 # pool
 
+[![GoDoc](https://godoc.org/github.com/ndrewnee/pool?status.svg)](https://godoc.org/github.com/ndrewnee/pool)
+[![Go Report Card](https://goreportcard.com/badge/github.com/ndrewnee/pool)](https://goreportcard.com/report/github.com/ndrewnee/pool)
 [![Build Status](https://travis-ci.org/ndrewnee/pool.svg?branch=master)](https://travis-ci.org/ndrewnee/pool)
+[![Coverage Status](https://coveralls.io/repos/github/ndrewnee/pool/badge.svg)](https://coveralls.io/github/ndrewnee/pool)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/ndrewnee/pool/issues)
 
 ## Description
 
