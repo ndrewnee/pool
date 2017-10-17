@@ -1,4 +1,4 @@
-package pool
+package pool // nolint: gotype
 
 import "sync"
 

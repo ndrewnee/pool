@@ -1,5 +1,5 @@
 // Package pool implements simple pool of workers
-package pool
+package pool // nolint: gotype
 
 import (
 	"sync"
